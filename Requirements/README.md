@@ -1,6 +1,6 @@
 # Requirements
 
-[Main](..\README.md)
+[Main](../README.md)
 
 ## Articles
 
