@@ -11,4 +11,9 @@ Technologies and learning resources for autodidacts.
   - Styling
   - Javascript
   - Typescript
-- Legal stuff
+- .Net
+  - [.Net Core](DotNet/DotNetCore/README.md)
+- DevOps
+  - [ARM templates](DevOps/ARMTemplates/README.md)
+- Testing
+- [Legal stuff](Legal%20stuff/README.md)
