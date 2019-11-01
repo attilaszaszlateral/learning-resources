@@ -10,7 +10,7 @@ Technologies and learning resources for autodidacts.
 - Web frontend
   - Styling
   - Javascript
-  - Typescript
+  - [Typescript](Web/Typescript/README.md)
 - .Net
   - [.Net Core](DotNet/DotNetCore/README.md)
 - DevOps

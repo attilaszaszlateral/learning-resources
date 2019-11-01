@@ -1,6 +1,6 @@
 # Typescript
 
-[Main](../README.md)
+[Main](../../README.md)
 
 TypeScript is a programming language that makes it easier to write cross-platform, application scale, JavaScript that runs in any browser or in any host.
 
