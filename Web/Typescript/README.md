@@ -11,3 +11,7 @@ TypeScript is a programming language that makes it easier to write cross-platfor
 ## Articles
 
 - [TypeScript Practical Introduction](https://auth0.com/blog/typescript-practical-introduction/)
+
+## Books
+
+- [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
